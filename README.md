@@ -13,3 +13,4 @@ bisa dicek langsung pada prefab yang tersedia
 - interval antara serangan absolut, sehingga tidak ada pemberhentian untuk menunggu serangan
 - ditambah background. sumber: https://iterplay.itch.io/background-and-some-assets812x375
 - file exe dapat diambil di: https://drive.google.com/file/d/1gLFQU6w1mIJC1RxzxoEmAXNuidJQ15X9/view?usp=sharing
+- video demonstrasi dapat dilihat di: https://drive.google.com/file/d/1QRsPl_oMu6HKoHsYaE8YXFevcJlDeBpw/view?usp=sharing
